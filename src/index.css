@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+flex-direction: column;
+max-width: 100%;
+align-content: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.page-first-section-title{
+  /* display: flex;
+  justify-content: left;
+  margin-left: 45px; */
+}
+
+.banner-description{
+  color: gray;
+  font-size: 15px;
+  /* display: flex;
+  justify-content: left;
+  max-width: 290px;
+  margin-left: 41px; */
+}
+.banner-two-description{
+  color: gray;
+  font-size: 15px;
+  display: flex;
+
+
+}
+
+.banner-button{
+   display: flex;
+  justify-content: left;
+  margin-left: 3px; 
+}
+
+.card-text{
+  color: gray;
+}
+
+.banner-section{
+  background: rgb(248, 250, 250);
+  padding-bottom: 50px;
+}
+
+
+.text-section{
+  margin-top: 100px;
+  text-align: left;
+  margin-left: 10em;
+  
+}
+
+.navbar-buttons-custom{
+  margin-left: 61em;
+}
+
+.card-body{
+  text-align: left;
+}
+
+.material-icons{
+  color: green;
+}
+
+.caard-section{
+  display: flex;
+  justify-content: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
